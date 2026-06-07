@@ -64,7 +64,7 @@ LIMIT 10;
 ```
 
 
-##Tableau Dashboard
+Tableau Dashboard
 The Tableau dashboard includes:
 
 -Patient Demographics
@@ -82,7 +82,7 @@ The Tableau dashboard includes:
 
 
 
-##Business Impact
+Business Impact
 
 Accurate Electronic Health Record data supports:
 
