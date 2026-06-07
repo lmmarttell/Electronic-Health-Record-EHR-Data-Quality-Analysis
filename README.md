@@ -62,8 +62,9 @@ GROUP BY Diagnosis_Code
 ORDER BY total_cases DESC
 LIMIT 10;
 
+
 ##Tableau Dashboard
-##The Tableau dashboard includes:
+The Tableau dashboard includes:
 
 -Patient Demographics
 -Diagnosis Analysis
