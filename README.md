@@ -104,20 +104,22 @@ LIMIT 10;
 ```
 
 
-Tableau Dashboard
-The Tableau dashboard includes:
+## Tableau Dashboard
 
--Patient Demographics
--Diagnosis Analysis
--Smoking Status Distribution
--Insurance Coverage Analysis
--Provider Performance Metrics
--Data Quality Overview
--Key Findings
--Analyzed 3,000 patient records.
--Identified the most common diagnosis codes.
--Evaluated demographic distributions across the patient population.
--Examined provider activity and patient visit trends.
--Assessed data quality through missing value analysis.
+The dashboard provides interactive visualizations for:
 
+- Patient Demographics
+- Diagnosis Distribution
+- Smoking Status Analysis
+- Insurance Coverage Trends
+- Provider Performance Metrics
+- Data Quality Monitoring
 
+## Key Findings
+
+- Analyzed 3,000 patient records from the EHR dataset.
+- Identified the most frequently reported diagnosis codes.
+- Examined patient demographics and visit patterns.
+- Evaluated provider activity and performance metrics.
+- Detected missing values and potential data quality issues.
+- Created a foundation for reliable healthcare reporting and analytics.
