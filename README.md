@@ -79,6 +79,8 @@ The Tableau dashboard includes:
 -Examined provider activity and patient visit trends.
 -Assessed data quality through missing value analysis.
 
+
+
 ##Business Impact
 
 Accurate Electronic Health Record data supports:
