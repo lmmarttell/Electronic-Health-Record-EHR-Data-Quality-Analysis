@@ -3,6 +3,46 @@ Analyzed Electronic Health Record (EHR) data to identify data quality issues, im
 
 ## Project Overview
 
+## Business Problem
+
+- Healthcare organizations depend on Electronic Health Records (EHRs) for patient care, reporting, and operational decision-making.
+- Incomplete, inaccurate, or duplicate records can negatively impact patient outcomes and business operations.
+- Poor data quality can lead to reporting errors, compliance risks, and inefficient healthcare processes.
+- Organizations need reliable data to support clinical and administrative decisions.
+
+## Business Questions
+
+- How complete and accurate is the patient data?
+- Which fields contain the highest number of missing values?
+- Are there duplicate records that could affect reporting accuracy?
+- What inconsistencies exist within the dataset?
+- Which data quality issues should be prioritized for correction?
+
+## Business Impact
+
+- Improved confidence in healthcare data used for reporting and analysis.
+- Reduced the risk of inaccurate patient information affecting clinical decisions.
+- Supported more reliable business intelligence and operational reporting.
+- Enhanced data governance and quality management efforts.
+- Increased trust in organizational data for decision-making.
+
+## Key Insights
+
+- Identified missing values across critical patient information fields.
+- Detected duplicate records that could impact reporting accuracy.
+- Found inconsistencies in data formatting and standardization.
+- Improved overall dataset quality through data cleaning and validation.
+- Established a more reliable foundation for future healthcare analytics projects.
+
+## Business Recommendations
+
+- Implement regular data quality audits to identify issues early.
+- Establish standardized data entry procedures across departments.
+- Create automated validation rules to reduce data entry errors.
+- Monitor duplicate records and missing values through routine reporting.
+- Develop data governance policies to maintain long-term data quality.
+
+
 This project analyzes Electronic Health Record (EHR) data to evaluate patient demographics, diagnosis patterns, provider activity, and overall data quality.
 
 Using Excel, MySQL, and Tableau, I explored a dataset containing 3,000 patient records to identify healthcare trends, assess data quality, and generate actionable insights through interactive visualizations.
