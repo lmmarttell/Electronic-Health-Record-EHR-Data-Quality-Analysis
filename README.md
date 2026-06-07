@@ -60,7 +60,7 @@ SELECT Diagnosis_Code,
 FROM ehr_data_quality.ehr_data_quality
 GROUP BY Diagnosis_Code
 ORDER BY total_cases DESC
-LIMIT 10;
+LIMIT 10;```
 
 
 ##Tableau Dashboard
