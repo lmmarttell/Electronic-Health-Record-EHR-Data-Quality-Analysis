@@ -121,13 +121,3 @@ The Tableau dashboard includes:
 -Assessed data quality through missing value analysis.
 
 
-
-Business Impact
-
-Accurate Electronic Health Record data supports:
-
--Better patient care
--Improved clinical decision-making
--More reliable healthcare reporting
--Enhanced operational efficiency
--Stronger healthcare data governance
